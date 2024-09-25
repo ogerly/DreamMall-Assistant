@@ -74,8 +74,5 @@ Geben Sie Ihre Frage oder Anweisung in das Textfeld ein und klicken Sie auf "Sen
 - Implementierung von Benutzer-Authentifizierung und -Autorisierung
 - Erweiterung der Frontend-Funktionalität (z.B. Verlaufsspeicherung, Themenkategorisierung)
 
-## Beitrag
-Beiträge sind willkommen! Bitte lesen Sie CONTRIBUTING.md für Details zu unserem Verhaltenskodex und dem Prozess für das Einreichen von Pull Requests.
-
 ## Lizenz
 Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die LICENSE.md Datei für Details.

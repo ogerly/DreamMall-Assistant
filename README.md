@@ -3,6 +3,9 @@
 ## Überblick
 Der DreamMall Assistant ist ein KI-gestützter Chatbot, der entwickelt wurde, um Benutzern bei der Navigation und Interaktion mit der DreamMall-Plattform zu helfen. Er nutzt das GPT-2 Modell von Hugging Face, um kontextbezogene und hilfreiche Antworten zu generieren.
 
+![Bildschirmfoto vom 2024-09-25 22-19-19](https://github.com/user-attachments/assets/8ad6ba36-b28c-4af3-8c58-bcd2e73a3705)
+
+
 ## Aktueller Konzeptstatus
 - **Phase**: Proof of Concept / Prototyp
 - **Funktionalität**: Grundlegende Frage-Antwort-Interaktion

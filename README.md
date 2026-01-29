@@ -1,7 +1,7 @@
-# DreamMall Assistant
+# All Assistant
 
 ## Überblick
-Der DreamMall Assistant ist ein KI-gestützter Chatbot, der entwickelt wurde, um Benutzern bei der Navigation und Interaktion mit der DreamMall-Plattform zu helfen. Er nutzt das GPT-2 Modell von Hugging Face, um kontextbezogene und hilfreiche Antworten zu generieren.
+Der All Assistant ist ein KI-gestützter Chatbot, der entwickelt wurde, um Benutzern bei der Navigation und Interaktion mit der All-Plattform zu helfen. Er nutzt das GPT-2 Modell von Hugging Face, um kontextbezogene und hilfreiche Antworten zu generieren.
 
 ![Bildschirmfoto vom 2024-09-25 22-19-19](https://github.com/user-attachments/assets/8ad6ba36-b28c-4af3-8c58-bcd2e73a3705)
 
@@ -15,7 +15,7 @@ Der DreamMall Assistant ist ein KI-gestützter Chatbot, der entwickelt wurde, um
 
 ## Projektstruktur
 ```
-DreamMall-Assistant/
+All-Assistant/
 ├── frontend/
 │   ├── index.html
 │   └── app.js
@@ -36,8 +36,8 @@ DreamMall-Assistant/
 ### Installation
 1. Klonen Sie das Repository:
    ```
-   git clone https://github.com/yourusername/DreamMall-Assistant.git
-   cd DreamMall-Assistant
+   git clone https://github.com/yourusername/all-Assistant.git
+   cd all-Assistant
    ```
 
 2. Installieren Sie die Backend-Abhängigkeiten:
@@ -72,7 +72,7 @@ DreamMall-Assistant/
 Geben Sie Ihre Frage oder Anweisung in das Textfeld ein und klicken Sie auf "Senden". Der Assistant wird versuchen, eine hilfreiche Antwort zu generieren.
 
 ## Nächste Schritte
-- Integration spezifischer DreamMall-Funktionen und -Daten
+- Integration spezifischer All-Funktionen und -Daten
 - Verbesserung der Antwortqualität durch Feinabstimmung des Modells
 - Implementierung von Benutzer-Authentifizierung und -Autorisierung
 - Erweiterung der Frontend-Funktionalität (z.B. Verlaufsspeicherung, Themenkategorisierung)
